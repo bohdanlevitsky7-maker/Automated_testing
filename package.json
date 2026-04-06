@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "playwright": "^1.59.1"
+  },
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "playwright-core": "^1.59.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+  
+  
+}
